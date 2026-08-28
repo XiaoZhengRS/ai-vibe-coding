@@ -53,4 +53,4 @@ matr 站，一条请求一百万，三天烧掉库里南。（啊不是）
 
 至于本站究竟黑不黑心——诺，说明书都教给你们了，自己一条条对着看不就行了。
 
-站点地址: [https:](https://sub.matrcode.com)
+站点地址: [Matr Code](https://sub.matrcode.com)
